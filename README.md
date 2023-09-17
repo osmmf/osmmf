@@ -7,7 +7,7 @@
 
 <img align="right" width="400" src="https://github.com/osmmf/osmmf/assets/133261182/890e53bd-47ea-4a6c-9b33-7517da5a2a5a">
 
-- 🌱 I’m currently learning **Software Engineering and Cyber Security**
+- 🌱 I’m currently learning **Software Engineering and Cyber Security.**
 
 - 👀 I’m interested **in Software Engineering, Networking, and Securing...**
   
@@ -33,3 +33,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=osmmf&show_icons=true&locale=en" alt="osmmf" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=osmmf&" alt="osmmf" /></p>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=osmmf&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
