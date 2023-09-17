@@ -1,9 +1,10 @@
 <img align="centre" src="https://camo.githubusercontent.com/34e2391334d75246d9c86c0a470a4b5606ab4dc84fb803930bc89635b4fce9c9/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e676966">
 
 <h1 align="center">Hi 👋, I'm OUSSAMA EL MEFTAHI 🖥️</h1>
+<br>
+
 <h3 align="center">A young Moroccan passionate about coding, networking, and all things in the tech field, with a strong interest in software engineering and computer science 💻</h3>
 
-<br>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osmmf&label=Profile%20views&color=0e75b6&style=flat" alt="osmmf" /> </p>
 
