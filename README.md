@@ -7,8 +7,6 @@
 
 <img align="right" width="400" src="https://github.com/osmmf/osmmf/assets/133261182/890e53bd-47ea-4a6c-9b33-7517da5a2a5a">
 
-<p align="left"> <a href="https://twitter.com/osmmf" target="blank"><img src="https://img.shields.io/twitter/follow/osmmf?logo=twitter&style=for-the-badge" alt="osmmf" /></a> </p>
-
 - 🌱 I’m currently learning **Software Engineering and Cyber Security**
 
 - 👀 I’m interested **in Software Engineering, Networking, and Securing...**
