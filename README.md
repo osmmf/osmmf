@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm OUSSAMA EL MEFTAHI 🖥️</h1>
 <h3 align="center">A young Moroccan passionate about coding, networking, and all things in the tech field, with a strong interest in software engineering and computer science 💻</h3>
+
 ![image](https://github.com/osmmf/osmmf/assets/133261182/801b2008-647a-4e68-a42c-eed6c9e20c30)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osmmf&label=Profile%20views&color=0e75b6&style=flat" alt="osmmf" /> </p>
