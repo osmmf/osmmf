@@ -36,4 +36,4 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=osmmf&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<img align="centre" src="[https://www.behance.net/gallery/105775659/creative-coding-explorations/modules/607067441](https://mir-s3-cdn-cf.behance.net/project_modules/hd/6055aa105775659.5f806b604ad1a.gif)https://mir-s3-cdn-cf.behance.net/project_modules/hd/6055aa105775659.5f806b604ad1a.gif">
+<img align="centre" src="https://www.behance.net/gallery/105775659/creative-coding-explorations/modules/607067441](https://mir-s3-cdn-cf.behance.net/project_modules/hd/6055aa105775659.5f806b604ad1a.gif)https://mir-s3-cdn-cf.behance.net/project_modules/hd/6055aa105775659.5f806b604ad1a.gif">
