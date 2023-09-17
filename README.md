@@ -1,4 +1,4 @@
-![image](https://github.com/osmmf/osmmf/assets/133261182/44d03c98-014a-43cc-a755-e3f86ff1b064)
+![image](https://github.com/osmmf/osmmf/assets/133261182/9a97fc8c-a27a-4d07-acf0-a690b6596cba)
 
 <h1 align="center">Hi 👋, I'm OUSSAMA EL MEFTAHI 🖥️</h1>
 <h3 align="center">A young Moroccan passionate about coding, networking, and all things in the tech field, with a strong interest in software engineering and computer science 💻</h3>
@@ -13,7 +13,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osmmf&label=Profile%20views&color=0e75b6&style=flat" alt="osmmf" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=osmmf" alt="osmmf" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
