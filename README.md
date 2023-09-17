@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm OUSSAMA EL MEFTAHI 🖥️</h1>
 <h3 align="center">A young Moroccan passionate about coding, networking, and all things in the tech field, with a strong interest in software engineering and computer science 💻</h3>
 
-<img aligh="right" width="400" src="![image](https://github.com/osmmf/osmmf/assets/133261182/890e53bd-47ea-4a6c-9b33-7517da5a2a5a)">
+<img aligh="right" width="400" src="https://github.com/osmmf/osmmf/assets/133261182/890e53bd-47ea-4a6c-9b33-7517da5a2a5a">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osmmf&label=Profile%20views&color=0e75b6&style=flat" alt="osmmf" /> </p>
