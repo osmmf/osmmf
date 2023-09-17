@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm OUSSAMA EL MEFTAHI 🖥️</h1>
 <h3 align="center">A young Moroccan passionate about coding, networking, and all things in the tech field, with a strong interest in software engineering and computer science 💻</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=osmmf&label=Profile%20views&color=0e75b6&style=flat" alt="osmmf" /> </p>
+
 <img align="right" width="400" src="https://github.com/osmmf/osmmf/assets/133261182/890e53bd-47ea-4a6c-9b33-7517da5a2a5a">
 
 <p align="left"> <a href="https://twitter.com/osmmf" target="blank"><img src="https://img.shields.io/twitter/follow/osmmf?logo=twitter&style=for-the-badge" alt="osmmf" /></a> </p>
@@ -14,8 +16,6 @@
 - 👨‍💻 All of my projects are available at [https://github.com/osmmf](https://github.com/osmmf)
 
 - 📫 How to reach me **elmeftahioussama@gmail.com**
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=osmmf&label=Profile%20views&color=0e75b6&style=flat" alt="osmmf" /> </p>
 
 
 <h3 align="left">Connect with me:</h3>
