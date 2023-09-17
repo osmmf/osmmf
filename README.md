@@ -7,6 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/osmmf" target="blank"><img src="https://img.shields.io/twitter/follow/osmmf?logo=twitter&style=for-the-badge" alt="osmmf" /></a> </p>
 
+- 🌱 I’m currently learning **Software Engineering and Cyber Security**
+
+- 👀 I’m interested **in Software Engineering, Networking, and Securing...**
+  
 - 👨‍💻 All of my projects are available at [https://github.com/osmmf](https://github.com/osmmf)
 
 - 📫 How to reach me **elmeftahioussama@gmail.com**
