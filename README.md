@@ -1,4 +1,4 @@
-![image](https://github.com/osmmf/osmmf/assets/133261182/9a97fc8c-a27a-4d07-acf0-a690b6596cba)
+![MasterHead](https://github.com/osmmf/osmmf/assets/133261182/9a97fc8c-a27a-4d07-acf0-a690b6596cba)
 
 <h1 align="center">Hi 👋, I'm OUSSAMA EL MEFTAHI 🖥️</h1>
 <h3 align="center">A young Moroccan passionate about coding, networking, and all things in the tech field, with a strong interest in software engineering and computer science 💻</h3>
